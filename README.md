@@ -1,2 +1,3 @@
-# -Nagroda-nick-
+ !Nagroda {nick}
 Nagroda Svip
+
